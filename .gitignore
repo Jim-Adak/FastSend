@@ -1,0 +1,9 @@
+/.tools/
+/build*/
+/out/
+/dist/
+/.vs/
+/CMakeUserPresets.json
+*.user
+*.log
+*.part
